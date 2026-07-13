@@ -64,7 +64,7 @@ Results-driven Full Stack Developer with experience in MERN Stack, Spring Boot, 
 
 👉 **View all my projects here:**
 
-**GitHub:** https://github.com/Gaikwad-Ravindra
+**GitHub:** [https://github.com/Gaikwad-Ravindra](https://github.com/Gaikwad-Ravindra?tab=repositories)
 
 ---
 
